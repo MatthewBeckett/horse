@@ -4,7 +4,4 @@
 #
 #	The objective is to land on all squares until all squares have been landed on, once a square has been occupied it can not selected again.
 #
-#
-#
-#
-#
+
